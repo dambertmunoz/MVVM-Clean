@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.5.0)
+  - AndesUI (3.55.0):
+    - AndesUI/Core (= 3.55.0)
+    - PureLayout (= 3.1.2)
+  - AndesUI/Core (3.55.0):
+    - AndesUI/LocalIcons
+    - PureLayout (= 3.1.2)
+  - AndesUI/LocalIcons (3.55.0):
+    - PureLayout (= 3.1.2)
+  - MLCardDrawer (1.8.3):
+    - MLCardDrawer/Default (= 1.8.3)
+  - MLCardDrawer/Default (1.8.3)
+  - PureLayout (3.1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - AndesUI
+  - MLCardDrawer
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AndesUI
+    - MLCardDrawer
+    - PureLayout
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  AndesUI: b79e8185d8f6660bbe547cbc95e8ec6465981fb3
+  MLCardDrawer: c943f3798080a3e047b0fef69b0a9366d937b5c7
+  PureLayout: 4634d0b61e3b5021166e8ec7c18e9e0ca0720c8b
+
+PODFILE CHECKSUM: bbba3415b127466f42a464a064a0c66e8a212487
+
+COCOAPODS: 1.11.2
